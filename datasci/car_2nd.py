@@ -2,7 +2,6 @@
 import scrapy
 class Car2ndSpider(scrapy.Spider):
     name = 'car_2nd'
-    # allowed_domains = ['https://www.xin.com/hangzhou/sn_y2/i1/']
     start_urls = ['https://www.xin.com/hangzhou/sn_y2/i1/']
     for i in range(2,51):
         url='https://www.xin.com/hangzhou/sn_y2/i{}/'.format(i)

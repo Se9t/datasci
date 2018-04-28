@@ -10,7 +10,6 @@ class MaoyanSpider(scrapy.Spider):
     for i in b:
         url='https://box.maoyan.com/promovie/api/box/second.json?beginDate={}'.format(i)
         start_urls.append(url)
-    
     def parse(self, response):
         for x in json.loads(response.text)['data']['list']:
             yield {
