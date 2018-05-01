@@ -31,5 +31,5 @@ pass
 
 ## 3.猫眼票房分析预测
 pass
-## 4.[世界粮食1961-2013年分析](./fao_aly.ipynb)
-## 5.[titanic生存预测](./titanic_pre.ipynb)
+## 4.[世界粮食1961-2013年分析](http://nbviewer.jupyter.org/github/Se9t/datasci/blob/master/datasci/fao_aly.ipynb)
+## 5.[titanic生存预测](http://nbviewer.jupyter.org/github/Se9t/datasci/blob/master/datasci/titanic%20-%20predict.ipynb)
