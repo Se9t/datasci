@@ -1,1 +1,6 @@
-![image](https://github.com/Se9t/datasci/tree/master/datasci/lianjia_mod.gif) 
+![](./img/lj.png) 
+## [#1]1.链家杭州二手房分析
+## 2.优信网杭州二手车分析
+## 3.猫眼票房分析预测
+## 4.世界粮食1961-2013年分析
+## 5.titanic生存预测
