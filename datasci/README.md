@@ -2,6 +2,7 @@
 1. 车，房，票房为scrapy爬虫抓取 粮食 titanic 为kaggle数据集下载
 2. mod为经过pandas powebi数据清洗整理后的文件，其他类似文件为抓取后未处理文件
 ## 1.链家杭州二手房分析
+    样本数量3000条
 ![img](./img/h1.png)
 ![img](./img/h2.png)
 ![img](./img/h3.png)
@@ -10,6 +11,7 @@
 pass
 
 ## 2.优信网杭州二手车分析
+样本数量2000条
 ![img](.//img//car1.png)
 ![img](.//img//car2.png)
 ![img](.//img//car3.png)
@@ -30,6 +32,8 @@ pass
 + 从最划算的购买角度看是11.2里程的奔驰和路虎 62个月与79的德系车最具优势
 
 ## 3.猫眼票房分析预测
+从2011-1-1至2018-4-28为止
+样本数量61000条
 pass
 ## 4.[世界粮食1961-2013年分析](http://nbviewer.jupyter.org/github/Se9t/datasci/blob/master/datasci/fao_aly.ipynb)
 ## 5.[titanic生存预测](http://nbviewer.jupyter.org/github/Se9t/datasci/blob/master/datasci/titanic%20-%20predict.ipynb)
