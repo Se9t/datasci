@@ -2,10 +2,10 @@
 1. 车，房，票房为scrapy爬虫抓取 粮食 titanic 为kaggle数据集下载
 2. mod为经过pandas powebi数据清洗整理后的文件，其他类似文件为抓取后未处理文件
 ## 1.链家杭州二手房分析
-![img](.\img\h1.png)
-![img](.\img\h2.png)
-![img](.\img\h3.png)
-![img](.\img\h4.png)
+![img](./img/h1.png)
+![img](./img/h2.png)
+![img](./img/h3.png)
+![img](./img/h4.png)
 
 pass
 
