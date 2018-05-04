@@ -8,7 +8,7 @@
 2. 首先看房源数量与平均价
 
     安居客的
-    
+
     ![img](.//img//fang3.png)
 
     可以看到拱墅江干与西湖区的数量比其他城区要多些有可能是城区较大的缘故 均价是滨江最高 临安可能是一个异常值
@@ -61,9 +61,6 @@
     （具体可以下载文件直接点击需要的项目向下钻取就可以动态查看各项变化） 
 1. ### [链家杭州二手房分析](#1.链家杭州二手房分析)
 2. ### [优信网杭州二手车分析](#2.优信网杭州二手车分析)
-3. ### [猫眼票房分析预测](#3.猫眼票房分析预测)
-### [4.世界粮食1961-2013年分析](#4.[世界粮食1961-2013年分析])
-### [5.titanic生存预测](#5.[titanic生存预测])
 ### 1.链家杭州二手房分析
 图列
 ![img](./img/h1.png)
@@ -90,7 +87,7 @@
 + 新车 旧车差价随着使用年限 里程数的增加而增加
 + 从最划算的购买角度看是11.2里程的奔驰和路虎 62与79个月的德系车最具优势
 
-### 3.猫眼票房分析预测
-buliding...
-## 4.[世界粮食1961-2013年分析](http://nbviewer.jupyter.org/github/Se9t/datasci/blob/master/datasci/fao_aly.ipynb)
-## 5.[titanic生存预测](http://nbviewer.jupyter.org/github/Se9t/datasci/blob/master/datasci/titanic_pre.ipynb)
+## 以下使用python pandas sklearn
+
+### [世界粮食1961-2013年分析](http://nbviewer.jupyter.org/github/Se9t/datasci/blob/master/datasci/fao_aly.ipynb)
+### [titanic生存预测](http://nbviewer.jupyter.org/github/Se9t/datasci/blob/master/datasci/titanic_pre.ipynb)
