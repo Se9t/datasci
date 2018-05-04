@@ -63,22 +63,13 @@
 ### 1链家杭州二手房分析
 图列
 ![img](./img/h1.png)
-![img](./img/h2.png)
 ![img](./img/h3.png)
-![img](./img/h4.png)
 ### 2优信网杭州二手车分析
 图列
 ![img](.//img//car1.png)
-![img](.//img//car2.png)
-![img](.//img//car3.png)
-![img](.//img//car4.png)
 ![img](.//img//car5.png)
-![img](.//img//car6.png)
-![img](.//img//car7.png)
-![img](.//img//car8.png)
 ![img](.//img//car9.png)
-![img](.//img//car10.png)
-![img](.//img//car11.png)
+
 ![img](.//img//car12.png)
 ![img](.//img//car13.png)
 + 二手车的品牌构成主要是美系和德系占了一半以上，车型以三厢为主，大众车的排量大都小于2.0L 宝马奥迪则大都是2.0L
